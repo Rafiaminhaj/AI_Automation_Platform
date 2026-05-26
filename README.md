@@ -31,6 +31,19 @@ An enterprise-grade, end-to-end autonomous operating system that bridges the gap
 Business Pipeline: [Customer Touchpoints (WhatsApp/Voice AI)] ➔ [NexaFlow Core Engine] ➔ [Automated Sub-Systems (Stripe Refunds/CRM Logs/SMS)]
 
 Industrial Pipeline: [Production Line Feeds (High-Speed Optical Feeds)] ➔ [YOLOv8 Vision Core] ➔ [Real-Time Micro-Metrics (12ms Latency / 60 FPS Feed)]
+---
+
+## ✨ Core Features
+
+- AI Unified Inbox
+- Voice AI Simulation
+- Real-Time CRM Automation
+- AI Lead Scoring
+- Booking Automation
+- Live Activity Engine
+- AI Confidence Scoring
+- Defect Detection Dashboard
+- Analytics & Insights
 
 1. 🎙️ Autonomous "Lead-to-Booking" Voice Engine
 NexaFlow handles asynchronous user incoming calls, parses dialogue streams using low-latency LLM node execution, and extracts consumer intents dynamically (e.g., booking management, support routing, instant state cancellation).
